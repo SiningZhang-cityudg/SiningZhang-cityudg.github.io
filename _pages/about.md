@@ -28,10 +28,11 @@ I am an **Independent Researcher** at **City University of Hong Kong (Dongguan)*
   * **M.Eng. in Information and Communication Engineering** (工学硕士，信息与通信工程)  
     *2018.09 – 2021.06*  
     *State Key Laboratory of Media Convergence and Communication (媒体融合与传播国家重点实验室)*
-
+    
 * **Huazhong University of Science and Technology (HUST)** | 华中科技大学  
   * **B.Eng. in Electronic and Information Engineering** (工学学士，电子信息工程)  
     *2014.09 – 2018.06*  
+    *The School of Electronic Information and Communications (EIC) (电子信息与通信学院)*
 
 ---
 
