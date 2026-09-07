@@ -9,9 +9,9 @@ redirect_from:
 
 ## Bio / 个人简介
 
-I am currently the **IT Services Office Supervisor** at **City University of Hong Kong (Dongguan)**. My research interest lies in Artificial Intelligence, particularly in exploring how AI models can develop and implement **World Models**.
+I am an **Independent Researcher** at **City University of Hong Kong (Dongguan)**. My research interest lies in Artificial Intelligence, particularly in exploring how AI models can develop and implement **World Models**.
 
-现任**香港城市大学（东莞）IT服务处主管**。主要研究兴趣为人工智能领域，重点关注 AI 如何构建与实现**世界模型（World Models）**。
+我是一名**独立研究者（Independent Researcher）**，现于**香港城市大学（东莞）**。主要研究兴趣为人工智能领域，重点关注 AI 如何构建与实现**世界模型（World Models）**。
 
 ---
 
