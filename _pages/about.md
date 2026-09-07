@@ -18,7 +18,6 @@ I am an **Independent Researcher** at **City University of Hong Kong (Dongguan)*
 ## Work Experience / 工作经历
 
 * **City University of Hong Kong (Dongguan)** | 香港城市大学（东莞）  
-  * **Supervisor, IT Services Office (IT服务处主管)**  
     *Present / 至今*
 
 ---
